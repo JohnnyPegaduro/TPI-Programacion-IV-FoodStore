@@ -1,0 +1,3 @@
+import {NavLink} from 'react-router-dom';
+const links=[['/admin/resumen','Resumen'],['/admin/categorias','Categorías'],['/admin/productos','Productos'],['/admin/pedidos','Pedidos'],['/admin/usuarios','Usuarios']];
+export function AdminNav(){return <nav aria-label="Panel de administración" className="mb-7 flex flex-wrap gap-2 rounded-2xl border border-slate-200 bg-white p-3 dark:border-slate-700 dark:bg-slate-900">{links.map(([to,name])=><NavLink key={to} to={to} className={({isActive})=>`rounded-xl px-4 py-2 text-sm font-semibold transition-colors ${isActive?'bg-orange-500 text-white':'text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800'}`}>{name}</NavLink>)}</nav>;}

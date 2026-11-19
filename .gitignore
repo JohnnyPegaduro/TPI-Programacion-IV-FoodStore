@@ -1,0 +1,24 @@
+# Variables de entorno
+**/.env
+**/.env.*
+!**/.env.example
+
+# Python
+**/.venv/
+**/venv/
+**/__pycache__/
+**/.pytest_cache/
+**/*.py[cod]
+
+# Frontend
+**/node_modules/
+**/dist/
+**/*.tsbuildinfo
+
+# Bases de datos locales
+**/*.db
+**/*.sqlite3
+
+# Archivos de cobertura
+**/.coverage
+**/htmlcov/
