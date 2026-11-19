@@ -4,7 +4,7 @@
 **Proyecto:** aplicación de pedidos de comida. Backend **FastAPI + SQLModel + PostgreSQL**; frontend **React + TypeScript + Vite**.
 
 
-> - **Repositorio público de GitHub:** `PENDIENTE_REEMPLAZAR_CON_URL_REAL_DEL_REPOSITORIO`
+> - **Repositorio público de GitHub:** `https://github.com/JohnnyPegaduro/TPI-Programacion-IV-FoodStore`
 > - **Video demostrativo público (10–15 minutos):** `PENDIENTE_REEMPLAZAR_CON_URL_REAL_DEL_VIDEO`
 
 
