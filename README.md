@@ -5,7 +5,7 @@
 
 
 > - **Repositorio público de GitHub:** `https://github.com/JohnnyPegaduro/TPI-Programacion-IV-FoodStore`
-> - **Video demostrativo público (10–15 minutos):** `https://youtu.be/WaRyuSZ_Jqo`
+> - **Video demostrativo público:** `https://youtu.be/WaRyuSZ_Jqo`
 
 
 ## 1. Descripción funcional
